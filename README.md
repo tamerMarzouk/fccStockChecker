@@ -1,2 +1,3 @@
 # fccStockChecker
-API for stock qoute
+API for stock qoute 
+Nodejs Express MongoDB
